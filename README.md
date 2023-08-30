@@ -1,3 +1,9 @@
+## Examples of forms using formik,yup in TS
+
+taken of another project in js and converted to TS
+still having problems with how to reset a form after submit
+this is solved now by using a resetForm function from formik
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
